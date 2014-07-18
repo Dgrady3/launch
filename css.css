@@ -1,0 +1,40 @@
+
+
+#bigrap {
+    background: #aa7739;
+
+
+}
+
+#logo {
+    background: #42718c;
+    background padding: 40;
+    text-align: center;
+    margin: 0;
+}
+
+#wrapper {
+    background: #aa7739;
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 0;
+
+
+}
+
+
+#last {
+    background: #aa7739;
+    padding: 30 ;
+    margin: 30;
+
+}
+
+#myish {
+    list-style-type: none;
+    float: center;
+}
+
+ul {
+    list-style-type: none;
+}
